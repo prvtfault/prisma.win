@@ -1055,7 +1055,7 @@ Domain Path:      /languages/
      width: calc(100% / 3);
      bottom: 0;
      background: #5533ff;
-     background: linear-gradient(95deg, #040D21 40%, #042C68 80%, #040D21 100%);
+     background: linear-gradient(95deg, #040D21 40%, #042C68 100%);
           position: absolute;
      height: 155px;
      left: 3%;

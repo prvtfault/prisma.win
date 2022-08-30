@@ -28,7 +28,11 @@ Domain Path:      /languages/
              user-select: none; /* Non-prefixed version, currently*/
    }
 
-
+   @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
    
    html {
      overflow-x: hidden;

@@ -1,3 +1,3 @@
 # prvtfault.github.io
 
-prisma.win open source website feel free to use it :)  (yes it was my old spoofer project)
+prisma.win open source website feel free to use it :) (free spoofer website p sellix linked too)
